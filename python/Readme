@@ -1,0 +1,3 @@
+1.old_code/python目录下存放old python代码， old_code/java目录下存放old java代码。由于以前没有使用Git，因此只push主要文件。
+2.storm_wordcount_kit目录下，存放之前跑storm wordcount程序的脚本wordcountKit.py,主要用于自动生成单词到文件中，测试storm的实时统计单词个数的性能，完整的wordcount代码待上传
+3.zhihu_crawler目录下，存放zhihu_crawler.py代码，主要是为了构建深度学习问题分类数据集，爬取知乎话题广场中的33个分类下前20页的精华问题。
