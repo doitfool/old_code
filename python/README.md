@@ -1,4 +1,4 @@
-## old/python目录说明
+## old_code/python目录说明
 - storm_wordcount_kit:
 	- wordcountKit.py: storm wordcount程序测试脚本，用于自动随机生成单词，测试storm的实时性
 - zhihu_crawler:
