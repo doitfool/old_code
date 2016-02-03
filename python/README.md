@@ -1,4 +1,7 @@
 ## old_code/python目录说明
+- BaiduTranslation:
+	- BaiduTranslationAPI.py: 百度翻译接口python实现
+	- FreeBaseRelationTranslation.py: 借助百度翻译接口对freebase中关系或属性进行规范化翻译
 - storm_wordcount_kit:
 	- wordcountKit.py: storm wordcount程序测试脚本，用于自动随机生成单词，测试storm的实时性
 - zhihu_crawler:
