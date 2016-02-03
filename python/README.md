@@ -4,6 +4,13 @@
 	- FreeBaseRelationTranslation.py: 借助百度翻译接口对freebase中关系或属性进行规范化翻译
 - storm_wordcount_kit:
 	- wordcountKit.py: storm wordcount程序测试脚本，用于自动随机生成单词，测试storm的实时性
+- WeiboChallenge: 阿里天池微博初赛酱油飘过
+	- PreProcess.py: 原始数据集预处理
+	- FeatureExtracter.py: 特征抽取
+	- Models.py: 训练模型
+	- Predict.py: 根据训练得到的模型进行预测
+	- Result.py: 存储模型预测结果
+	- AllDone.py： 调用预处理，特征抽取，模型训练及存储，结果预测及存储模块实现微博预测 
 - zhihu_crawler:
 	- zhihu_crawler.py: 构建深度学习问题分类数据集，爬取[知乎话题广场](http://www.zhihu.com/topics)里33个话题分类中各个话题的前20页的精华问题
 	- resource:
