@@ -10,7 +10,7 @@
 	- Models.py: 训练模型
 	- Predict.py: 根据训练得到的模型进行预测
 	- Result.py: 存储模型预测结果
-	- AllDone.py： 调用预处理，特征抽取，模型训练及存储，结果预测及存储模块实现微博预测 
+	- AllDone.py: 调用预处理，特征抽取，模型训练及存储，结果预测及存储模块实现微博预测 
 - zhihu_crawler:
 	- zhihu_crawler.py: 构建深度学习问题分类数据集，爬取[知乎话题广场](http://www.zhihu.com/topics)里33个话题分类中各个话题的前20页的精华问题
 	- resource:
