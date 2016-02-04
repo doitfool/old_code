@@ -1,2 +1,3 @@
 # 代码记录
-- python: 该目录存放python代码
+- java: java代码存放目录
+- python: python代码存放目录
